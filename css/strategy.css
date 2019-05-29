@@ -1,0 +1,143 @@
+#stratgy_tt{
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+#stratgy_tt .inner{
+    width: 1000px;
+    margin: 0 auto;
+}
+.long_img img{
+    width: 100%;
+}
+
+.st_title{
+    display: block;
+    margin: 0 0 0 15px;
+}
+.han{
+    position: relative;
+    height: 30px;
+    min-width: 30px;
+    /* word-wrap: break-word;
+    word-break: normal;
+    white-space: pre-wrap; */
+    text-align: inherit;
+    color: #333;
+    font-family: "微软雅黑";
+    font-size: 20px;
+    text-align: left;
+    margin: 0;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    outline: 0;
+    clear: both;
+}
+.cont{
+    font-size: 26px;
+    color: #333;
+    font-family: 微软雅黑;
+    text-align: left;
+}
+.eng{
+    position: relative;
+    display: block;
+    height: 30px;
+    min-width: 30px;
+    text-align: inherit;
+    color: #333;
+    font-family: "微软雅黑";
+    font-size: 20px;
+    text-align: left;
+    margin: 0;
+    padding-bottom: 30px;
+    outline: 0;
+    clear: both;
+}
+.eng1{
+    font-size: 14px;
+    color: #c16b77;
+    font-family: 微软雅黑;
+    text-align: left;
+    margin: 0;
+}
+.eng1-1{
+    color: #c16b77;
+    font-size: 20px;
+    display: block;
+    width: 100%;
+    float: left;
+}
+
+#stratgy_con .inner{
+    width: 1000px;
+    margin: 0 auto;
+}
+.four_img{
+    width: 1000px;
+    position: relative;
+    margin: 0 0 0 15px;
+}
+.four_img img{
+    width: 220px;
+    height: 170px;
+}
+.img_c{
+    width: 24%;
+    position: relative;
+    display: inline-block;
+    height: 220px;
+    padding: 0;
+    margin: 0;
+    text-align: inherit;
+}
+
+
+.img1_con
+{
+    position: relative;
+    box-sizing: border-box;
+    min-height: 30px;
+    width: 100%;
+}
+.img_con img{
+    width: 50px;
+    height: auto;
+    max-height: 100%;
+    vertical-align: initial;
+}
+.img1_tt
+{
+    position: relative;
+    box-sizing: border-box;
+    min-height: 30px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    min-width: 30px;
+}
+
+.img_tt {
+    font-size: 26px;
+    color: #333;
+    font-family: 微软雅黑;
+    text-align: left;
+}
+.img_text a{
+    font-size: 14px;
+    color: rgba(153,153,153,1);
+    font-family: 微软雅黑;
+    text-align: left;
+}
+
+#stratgy_con .total{
+    width: 1000px;
+    position: relative;
+    margin-left: 17px;
+    margin-top: 100px;
+    text-align: center;
+    /* padding: 0 12.4%; */
+    padding:0px;
+}
+#stratgy_con .total img{
+    width: 1000px;
+    margin:0 auto;
+}

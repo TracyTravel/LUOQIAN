@@ -1,0 +1,86 @@
+#bali_con{
+    padding-bottom: 0;
+    margin: 0 auto;
+}
+#bali_con .inner{
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.four_img img{
+    width: 220px;
+    height: 160px;
+    margin: 20px 0;
+}
+.img_c{
+    width: 24%;
+    position: relative;
+    display: inline-block;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    text-align: inherit;
+}
+.img1_con
+{
+    position: relative;
+    box-sizing: border-box;
+    min-height: 30px;
+    width: 100%;
+}
+.img_con img{
+    width: 100%;
+    height: auto;
+    max-height: 100%;
+    vertical-align: initial;
+}
+.st_title{
+    display: block;
+    margin-left: 0;
+}
+.han{
+    position: relative;
+    height: 30px;
+    min-width: 30px;
+    text-align: inherit;
+    margin: 0;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    outline: 0;
+    clear: both;
+}
+.cont{
+    font-size: 26px;
+    color: #666666;
+    font-family: 微软雅黑;
+    text-align: left;
+}
+.eng{
+    position: relative;
+    display: block;
+    height: 30px;
+    min-width: 30px;
+    text-align: inherit;
+    text-align: left;
+    margin: 0;
+    padding-bottom: 30px;
+    outline: 0;
+    clear: both;
+}
+.eng1{
+    font-size: 16px;
+    color: #c16b77;
+    font-family: 微软雅黑;
+    text-align: left;
+    margin: 0;
+}
+.eng1-1{
+    color: #c16b77;
+    font-size: 20px;
+    display: block;
+    width: 100%;
+    float: left;
+}
+.con4 .bali_text{
+    padding-bottom: 160px;
+}

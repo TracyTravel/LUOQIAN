@@ -1,0 +1,181 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/*
+table {
+    border-spacing:0;
+}*/
+ul {
+    list-style: none;
+}
+tr{
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+td{
+    display: table-cell;
+    vertical-align: inherit;
+}
+label{
+    cursor: default;
+}
+
+body.default{
+    background-color: #ffeded;
+    font-size: 12px;
+    line-height: 120%;
+    color: #c16e79;
+    margin-left: 6px;
+}
+h1{
+    font-size: 12px;
+    font-weight: normal;
+}
+form{
+    display: table;
+    text-align: center;
+    border-color: rgb(145, 20, 20);
+    border-collapse: separate;
+    border-spacing: 1px;
+    margin: 20px auto 40px auto;
+    width: 75%
+}
+.table1{
+    margin: 0 auto;
+    width: 100%;
+    padding-top: 1px;
+    font-family: "Microsoft Yahei";
+}
+td.t1-1{
+    border-bottom: 2px solid #e33b3d;
+    color: #c16e79;
+    height: 43px;
+    overflow: hidden;
+    background: url(../images/logo-w-s.png) no-repeat 0 -10px;
+    background-size: 165px auto;
+}
+h1{
+    text-align: left;
+    margin-left: 190px;
+    font-size: 22px;
+    font-family: "Microsoft Yahei";
+    font-weight: normal;
+    padding-bottom: 5px;
+}
+td.t1-2{
+    text-align: left;
+    padding: 30px 65px 15px 35px;
+    line-height: 25px;
+}
+
+.table2{
+    width: 100%;
+    margin: 25px 0 2px 0;
+    border: 0 none;
+    border-collapse: collapse;
+    background-color: #fff;
+}
+.table2 .table2-1{
+    width: 100%;
+    margin: 0 auto 10px auto;
+    border: 1px solid #c16e79;
+    background-color: #FFFFFF;
+}
+.t2-1-1{
+    font-family: verdana;
+    font-size: 12px;
+    font-weight: bold;
+    background-color: #f2c9d0;
+    text-align: left;
+    padding: 6px 10px;
+}
+.sp{
+    color: red;
+    font-size: 9px;
+    font-family: Verdana;
+    margin-right: 5px;
+}
+.t2-1-2{
+    padding: 11px 24px 16px 37px;
+    text-align: left;
+}
+li{
+    list-style-type: none;
+    text-align: left;
+    margin: 0% 0% 0.5em 0.5em;
+}
+.t2-1-2 li input{
+    vertical-align: top!important;
+    margin-top: 2px;
+}
+.t2-1-2 li label{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.aaa{
+    margin-right:8px;
+}
+p.answer{
+    height: 97px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.hide{
+    font-weight: normal;
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+}
+textarea{
+    width: 299px;
+    height: 77px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+.d3{
+    margin-top: 40px;
+}
+.d3 .table2-1 .t2-1-2 ul li label{
+    padding: 0.3em 1em 0% 0%;
+    display: table-cell;
+}
+.d3 .table2-1 .t2-1-2 ul li span{
+    padding: 0.3em 0% 0% 1em;
+    display: table-cell;
+    vertical-align: baseline;
+    white-space: nowrap;
+}
+.d3 .table2-1 td.t2-1-2 ul li input{
+    vertical-align: middle;
+}
+.name{
+    margin-left: 12px;
+}
+.t2-1-3{
+    width: 100%;
+    background-color: #f2c9d0;
+}
+.d4 button{
+    display: inline-block;
+    position: relative;
+    padding: 0;
+    margin-right: .1em;
+    text-decoration: none !important;
+    cursor: pointer;
+    zoom: 1;
+    overflow: visible;
+    border-radius: 6px;
+    border: 1px solid #ffeded;
+    background: #ffeded url(images/ui-bg_glass_80_d7ebf9_1x400.png) 50% 50% repeat-x;
+    font-weight: bold;
+    color: #c16e79;
+}
+.d4 button span{
+    padding: .4em 1em;
+    display: block;
+    line-height: 1.4;
+}
